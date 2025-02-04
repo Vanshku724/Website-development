@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignemnt 1</title>
+</head>
+
+<body>
+    <h1>Here is list of items of different categories</h1>
+    <ol type="I">
+        <h2>COUNTRIES</h2>
+        <li>USA</li>
+        <li>Canada</li>
+        <li>Australia</li>
+        <li>france</li>
+    </ol>
+    <h3>About Countries</h3>
+    <p>Countries are diverse regions with unique cultures, languages, and traditions. They vary in size, population, and
+        geography, from vast nations like Russia to small island states like Malta. Each country has its own government,
+        history, and identity, contributing to the rich tapestry of global diversity and interconnectedness.</p>
+    <img src="https://media.istockphoto.com/id/476743000/photo/world-national-flags.jpg?s=612x612&w=0&k=20&c=zsMfG-U_JyHUViaJJnPi4BrBHdf2CDp2GjTiVOOfXnM="
+        alt="Countries Flag">
+    <h4>Click on the link to see relation of different countries..</h4>
+    <a href="https://en.wikipedia.org/wiki/International_relations">INTERNATION RELATIONS</a>
+    <ul>
+        <h2>SPORTS</h2>
+        <li>Soccer</li>
+        <li>Basketball</li>
+        <li>Swimming</li>
+        <li>Golf</li>
+        <li>Boxing</li>
+
+    </ul>
+    <h3>About Sports</h3>
+    <p>Sports are physical activities that promote fitness, teamwork, and competition. They range from individual
+        pursuits like tennis to team games like soccer. Sports foster discipline, resilience, and camaraderie, uniting
+        people across cultures. They also provide entertainment, inspire athletes, and celebrate human potential, making
+        them a vital part of global culture.</p>
+    <img src="https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg" alt="different sports">
+    <h4>Click on link to see detailed knowledge on each game.. </h4>
+    <a href="https://en.wikipedia.org/wiki/Game">SPORTS.DET</a>
+    <h3>FORMS</h3>
+    <form action="post">
+        <label for="username">Enter your username</label>
+        <input type="text" name="username" placeholder="Enter your username">
+        <label for="number">Enter your mobile number</label>
+        <input type="number" name="number" placeholder="Enter your phone number">
+        <label for="E-mail">Enter your gmail account
+            <input type="gmail" name="gmail" placeholder="@gamil.com">
+        </label>
+    </form>
+    <button>Submit</button>
+</body>
+
+</html>
